@@ -1,8 +1,6 @@
 import axios from "axios";
-import "dotenv/config";
 
 // const { NODE_ENV } = process.env;
-// const URL = NODE_ENV === "development" ? "http://localhost:3000/api" : "/api";
 // const URL = "http://localhost:3000/api";
 const URL = "https://deploy-projeto-spotify-yxhu.onrender.com/api";
 
